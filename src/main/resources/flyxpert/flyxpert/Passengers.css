@@ -1,0 +1,22 @@
+#button
+{
+    -fx-background-color: #FFFFFF;
+    -fx-border-width: 0;
+}
+#button:hover
+{
+    -fx-background-color: #ededed;
+}
+
+#button1
+{
+    -fx-background-color: #7135ff;
+    -fx-border-width: 0;
+}
+#button1:hover
+{
+    -fx-background-color: #5c2ccf;
+}
+.anchor-pane {
+    -fx-background-color: #ffffff; /* Hexadecimal color for white */
+}
