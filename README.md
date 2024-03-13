@@ -23,7 +23,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ### 📝 About
-FlyXpert is an **academic project** related to the 2023 **OOP (Object-oriented programming)** course in [Faculty of Computer Science - Ain Shams University](https://cis.asu.edu.eg/) 
+FlyXpert is an **academic project** related to the 2023 **OOP (Object-oriented programming)
 to demonstrate an understanding of OOP concepts.
 
 It is a Desktop flight booking system that **allows users to**
